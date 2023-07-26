@@ -1,10 +1,10 @@
 {
   "Id": "de6-remote-control-support",
-  "Version": "1.0.0",
   "DisplayName": "DE6 Remote Controller Support",
   "Author": "SatiricRug",
-  "EntryMethod": "de6_remote_control_support.Main.Load",
+  "Version": "1.0.0",
   "ManagerVersion": "0.27.3",
+  "EntryMethod": "de6_remote_control_support.Main.Load",
   "HomePage": "https://www.nexusmods.com/derailvalley/mods/722",
-  "Repository": "https://raw.githubusercontent.com/pjschinske/dv-de6-remote-control-support/master/Repository.json"
+  "Repository": "https://raw.githubusercontent.com/pjschinske/dv-de6-remote-control-support/main/repository.json"
 }
