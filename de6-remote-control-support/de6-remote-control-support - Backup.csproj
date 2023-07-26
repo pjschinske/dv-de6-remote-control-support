@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<AssemblyName>MOD_NAME</AssemblyName>
+		<AssemblyName>de6-remote-control-support</AssemblyName>
 		<TargetFramework>net48</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<Nullable>enable</Nullable>
@@ -10,6 +10,9 @@
 	<!-- Derail Valley -->
 	<ItemGroup>
 		<Reference Include="Assembly-CSharp"/>
+		<Reference Include="DV.Utils"/>
+		<Reference Include="DV.Simulation"/>
+		<Reference Include="DV.ThingTypes"/>
 	</ItemGroup>
 
 	<!-- Unity -->
@@ -21,6 +24,7 @@
 	<!-- Mod Loader -->
 	<ItemGroup>
 		<PackageReference Include="UnityModManager" Version="0.27.2"/>
+		<PackageReference Include="Krafs.Publicizer" Version="2.2.1"/>
 	</ItemGroup>
 
 	<!-- Null Checking -->
