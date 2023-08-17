@@ -2,7 +2,7 @@
   "Id": "de6-remote-control-support",
   "DisplayName": "DE6 Remote Controller Support",
   "Author": "SatiricRug",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "ManagerVersion": "0.27.3",
   "EntryMethod": "de6_remote_control_support.Main.Load",
   "HomePage": "https://www.nexusmods.com/derailvalley/mods/722",
